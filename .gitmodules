@@ -1,0 +1,6 @@
+[submodule "libraries"]
+	path = libraries
+	url = https://github.com/wemblykj/ArduinoIDE_Libraries
+[submodule "sketchbooks"]
+	path = sketchbooks
+	url = https://github.com/wemblykj/ArduinoIDE_Sketchbooks
